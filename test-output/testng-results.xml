@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+      <class name="automation.testSuite">
+        <test-method status="PASS" signature="createTestData()[pri:0, instance:automation.testSuite@4520ebad]" name="createTestData" is-config="true" duration-ms="12" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTestData -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:automation.testSuite@4520ebad]" name="launchBrowser" is-config="true" duration-ms="1" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="TestCase_1()[pri:0, instance:automation.testSuite@4520ebad]" name="TestCase_1" duration-ms="7" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automation.testSuite@4520ebad]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:automation.testSuite@4520ebad]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="TestCase_2()[pri:0, instance:automation.testSuite@4520ebad]" name="TestCase_2" duration-ms="3" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automation.testSuite@4520ebad]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:automation.testSuite@4520ebad]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="TestCase_3()[pri:0, instance:automation.testSuite@4520ebad]" name="TestCase_3" duration-ms="8" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_3 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automation.testSuite@4520ebad]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="cleanUpTestData()[pri:0, instance:automation.testSuite@4520ebad]" name="cleanUpTestData" is-config="true" duration-ms="0" started-at="2021-07-13T01:52:15Z" finished-at="2021-07-13T01:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTestData -->
+      </class> <!-- automation.testSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
